@@ -6,7 +6,7 @@
 - 📚 Skilled in: Java, Spring Boot, SQL, DSA and C  
 - 💡 Quote I follow: "I believe in the power of consistent learning"
 ## Socials
-<p align="center">👇 Click the icons to visit my profiles</p>
+🔗 **Click the icons below to explore my profiles**
 
 [![Can't load image](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/dilipkumar2410/)[![Can't load image](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/u/dilipkumar-coder/)[![Can't load image](https://img.icons8.com/color/48/twitterx--v1.png)](https://x.com/DilipKumar2410) [![Can't load image](https://img.icons8.com/color/48/gmail-new.png)](dilipsu1357@gmail.com)
 
