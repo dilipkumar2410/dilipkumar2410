@@ -1,4 +1,9 @@
 # Hi there, I'm DILIP KUMAR!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dilipkumar2410&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ## About me
 - 🤓 I'm Dilip Kumar, CSE student   
 - 📈 I’m looking to collaborate on beginner-friendly Java and SQL projects  
