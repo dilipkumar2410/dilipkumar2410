@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Backend Enthusiast | Think • Build • Validate • Improve</h1>
+<h1 align="center">Backend Enthusiast | Think • Build • Validate • Improve</h1>
 
 ## About me
 - 🤓 I'm Dilip Kumar, CSE student   
