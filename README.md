@@ -10,5 +10,5 @@
 ## Tech Stack
 ![Can't load image](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png) ![Can't load image](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png) ![Can't load image](https://img.icons8.com/color/48/c-programming.png) ![Can't load image](https://img.icons8.com/fluency/48/c-plus-plus-logo.png) ![Can't load image](https://img.icons8.com/fluency/48/canva.png) ![Can't load image](https://img.icons8.com/fluency/48/intellij-idea.png) ![Can't load image](https://img.icons8.com/color-glass/48/github--v1.png)
 
-## Leetcode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/dilipkumar-coder?theme=dark&font=&extension=null)
+## LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=dilipkumar-coder&theme=dark)
