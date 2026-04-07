@@ -10,7 +10,7 @@
 ## Tech Stack
 ![Can't load image](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png) ![Can't load image](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png) ![Can't load image](https://img.icons8.com/color/48/c-programming.png) ![Can't load image](https://img.icons8.com/fluency/48/c-plus-plus-logo.png) ![Can't load image](https://img.icons8.com/fluency/48/canva.png) ![Can't load image](https://img.icons8.com/fluency/48/intellij-idea.png) ![Can't load image](https://img.icons8.com/color-glass/48/github--v1.png)
 
-## 🚀 LeetCode Stats
+## LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dilipkumar-coder?theme=dark&font=Karma&ext=heatmap" />
 </p>
