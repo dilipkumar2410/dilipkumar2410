@@ -18,6 +18,11 @@
   <img src="https://leetcard.jacoblin.cool/dilipkumar-coder?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
+## Contact
+
+📧 Email: [dilipkumar.coder@gmail.com](mailto:dilipkumar.coder@gmail.com)  
+📱 Phone: +91 9500691588
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dilipkumar2410&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
