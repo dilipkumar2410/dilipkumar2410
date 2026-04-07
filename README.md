@@ -1,8 +1,4 @@
-# Hi there, I'm DILIP KUMAR!
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilipkumar2410&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h1 align="center">🚀 Backend Enthusiast | Think • Build • Validate • Improve</h1>
 
 ## About me
 - 🤓 I'm Dilip Kumar, CSE student   
@@ -18,4 +14,8 @@
 ## LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dilipkumar-coder?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dilipkumar2410&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
