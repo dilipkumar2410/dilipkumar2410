@@ -1,4 +1,4 @@
-<img width="1013" height="586" alt="image" src="https://github.com/user-attachments/assets/29184240-512e-419c-a03b-4e29e6b66fba" /><h1 align="center">Backend Enthusiast | Think • Build • Validate • Improve</h1>
+<h1 align="center">Backend Enthusiast | Think • Build • Validate • Improve</h1>
 
 ## About me
 - 🤓 I'm Dilip Kumar, CSE student  
