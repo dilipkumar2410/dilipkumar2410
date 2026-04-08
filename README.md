@@ -1,4 +1,4 @@
-<h1 align="center">Backend Enthusiast | Think • Build • Validate • Improve</h1>
+<img width="1013" height="586" alt="image" src="https://github.com/user-attachments/assets/29184240-512e-419c-a03b-4e29e6b66fba" /><h1 align="center">Backend Enthusiast | Think • Build • Validate • Improve</h1>
 
 ## About me
 - 🤓 I'm Dilip Kumar, CSE student  
@@ -20,8 +20,9 @@
 
 ## Contact
 
-Email: [dilipkumar.coder@gmail.com](mailto:dilipkumar.coder@gmail.com)  
-Phone: +91 9500691588
+- Email: [dilipkumar.coder@gmail.com](mailto:dilipkumar.coder@gmail.com)
+- LinkedIn: [https://linkedin.com/in/dilipkumar2410](https://linkedin.com/in/dilipkumar2410)
+- Phone: [+91 9500691588](https://wa.me/919500691588)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dilipkumar2410&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
