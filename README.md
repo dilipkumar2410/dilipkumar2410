@@ -11,7 +11,15 @@
 [![Can't load image](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/dilipkumar2410/)[![Can't load image](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/u/dilipkumar-coder/)[![Can't load image](https://img.icons8.com/color/48/twitterx--v1.png)](https://x.com/DilipKumar2410)
 
 ## Tech Stack
-![Can't load image](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png) ![Can't load image](https://img.icons8.com/color/48/spring-logo.png)  ![Can't load image](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png) ![Can't load image](https://img.icons8.com/color/48/c-programming.png) ![Can't load image](https://img.icons8.com/color/48/javascript--v1.png)  ![Can't load image](https://img.icons8.com/color-glass/48/github--v1.png) ![Can't load image](https://img.icons8.com/color/48/linux--v1.png)  ![Can't load image](https://img.icons8.com/fluency/48/intellij-idea.png) ![Can't load image](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png) 
+![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)
+![Spring](https://img.icons8.com/color/48/spring-logo.png)
+![SQL](https://img.icons8.com/fluency/48/database.png)
+![C](https://img.icons8.com/color/48/c-programming.png)
+![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
+![GitHub](https://img.icons8.com/color-glass/48/github--v1.png)
+![Linux](https://img.icons8.com/color/48/linux--v1.png)
+![IntelliJ](https://img.icons8.com/fluency/48/intellij-idea.png)
+![Postman](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png)
 
 ## LeetCode Stats
 <p align="center">
