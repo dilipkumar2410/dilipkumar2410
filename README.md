@@ -23,17 +23,24 @@
 
 ## LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/dilipkumar-coder?theme=dark&font=Karma&ext=heatmap" />
+  <a href="https://leetcode.com/u/dilipkumar-coder/">
+    <img src="https://leetcard.jacoblin.cool/dilipkumar-coder?theme=dark&font=Karma&ext=heatmap" />
+  </a>
 </p>
 
 ## GeeksforGeeks Stats
 <p align="center">
-  <img src="https://gfgstatscard.vercel.app/dilipkumarcoder?theme=dark" />
+  <a href="https://www.geeksforgeeks.org/profile/dilipkumarcoder">
+    <img src="https://gfgstatscard.vercel.app/dilipkumarcoder?theme=dark" />
+  </a>
 </p>
 
-## HackerRank Stats
+## HackerRank
+
 <p align="center">
-  <img src="https://hackerrank-badges.github.io/dilipsu1357.png" />
+  <a href="https://www.hackerrank.com/profile/dilipsu1357">
+    <img src="https://img.shields.io/badge/HackerRank-dilipsu1357-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
 
 ## Contact
