@@ -26,6 +26,13 @@
   <img src="https://leetcard.jacoblin.cool/dilipkumar-coder?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
+## GeeksforGeeks Stats
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/dilipkumarcoder">
+    <img src="https://gfgstatscard.vercel.app/dilipkumarcoder?theme=dark" />
+  </a>
+</p>
+
 ## Contact
 
 - Email: [dilipkumar.coder@gmail.com](mailto:dilipkumar.coder@gmail.com)
