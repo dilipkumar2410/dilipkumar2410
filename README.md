@@ -28,9 +28,7 @@
 
 ## GeeksforGeeks Stats
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/dilipkumarcoder">
-    <img src="https://gfgstatscard.vercel.app/dilipkumarcoder?theme=dark" />
-  </a>
+  <img src="https://gfgstatscard.vercel.app/dilipkumarcoder?theme=dark" />
 </p>
 
 ## Contact
